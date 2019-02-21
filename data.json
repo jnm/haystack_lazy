@@ -1,0 +1,13 @@
+[
+    {
+        "fields": {
+            "is_active": true,
+            "is_staff": true,
+            "is_superuser": true,
+            "password": "pbkdf2_sha256$36000$XUETn5ZZSPAH$/bQdzvd6lvAzQFdyRM2Ur/6COn9uii9scjqPM05l4uk=",
+            "username": "testy"
+        },
+        "model": "auth.user",
+        "pk": 1
+    }
+]
